@@ -1,0 +1,59 @@
+body{
+  
+   min-height: 100vh;
+   margin: 0;
+   overflow-y: hidden;
+}
+
+.bg{
+    background-image: url("https://img.freepik.com/free-vector/online-job-interview_23-2148644500.jpg?w=996&t=st=1726812147~exp=1726812747~hmac=925a176c488a2472d88193e1d6d08e16ab6f5860821919a73b28d4fe4a4085dc");
+    background-size: contain;
+    background-position: center;
+    align-items: center;
+    justify-content: center;
+    opacity: 1;
+    width: 100%;
+    height:100vh;
+}
+
+/* .user{
+    background-image: url("https://static.tnn.in/thumb/msid-109645566,thumbsize-47668,width-1280,height-720,resizemode-75/109645566.jpg?quality=100");
+    background-size: contain;
+    background-position: center;
+    align-items: center;
+    justify-content: center;
+    opacity: 1;
+    width: 100%;
+    height:100vh;
+} */
+
+
+    html, body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+        overflow: auto;
+      }
+      
+      .scroll {
+        overflow-y: auto; /* Allow vertical scrolling */
+        max-height: 100vh; /* Ensure it doesn't exceed the viewport */
+      }
+      
+      section {
+        overflow-y: auto; /* Scroll within the section */
+        max-height: 100vh; /* Keep height in check */
+      }
+.ad{
+    background-image: url("https://static.tnn.in/thumb/msid-109645566,thumbsize-47668,width-1280,height-720,resizemode-75/109645566.jpg?quality=100");
+    background-size: contain;
+    background-position: center;
+    align-items: center;
+    justify-content: center;
+    opacity: 1;
+    width: 100%;
+    height:100vh;
+}
+      
+
+ 
